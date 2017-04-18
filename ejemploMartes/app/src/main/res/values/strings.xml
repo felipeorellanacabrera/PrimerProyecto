@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">ejemploMartes</string>
+    <string name="saludo">Hola Mundo</string>
+    <string name="bra">Braulio</string>
 </resources>
